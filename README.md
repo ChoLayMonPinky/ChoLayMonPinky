@@ -14,6 +14,7 @@ Transforming Data Into Business Value Through Analytics, Automation, and Intelli
 
 - 🇲🇲 From Myanmar, currently based in Singapore 🇸🇬
 - 🎓 Graduate Diploma in System Analysis at National University of Singapore (NUS)
+- 🎓 Graduate Diploma in Management at University of London (UOL) 
 - 📊 Experienced in Data Analytics, Business Analysis, and System Architecture
 - 🤖 Building AI-powered automation workflows and intelligent business solutions
 - 🚚 Interested in Digital Transformation, Logistics Systems, and Process Optimization
