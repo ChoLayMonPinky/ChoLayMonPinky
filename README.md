@@ -1,15 +1,5 @@
 <h1 align="center">👋 Hi, I'm Cho Lay Mon @ Pinky</h1>
 
-<p align="center">
-Data Analyst • Business Analyst • Systems Architect • AI Automation Specialist
-</p>
-
-<p align="center">
-Transforming Data Into Business Value Through Analytics, Automation, and Intelligent Systems
-</p>
-
----
-
 ## 🌏 About Me
 
 - 🇲🇲 From Myanmar, currently based in Singapore 🇸🇬
@@ -60,20 +50,4 @@ Transforming Data Into Business Value Through Analytics, Automation, and Intelli
 
 🇬🇧 English — Fluent  
 🇨🇳 Mandarin — Conversational  
-🇰🇷 Korean — Conversational  
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/cholaymon/
-
-💻 GitHub  
-https://github.com/ChoLayMonPinky
-
-
-<p align="center">
-✨ Building Intelligent Systems • Driving Automation • Delivering Data-Driven Impact ✨
-</p>
-
+🇰🇷 Korean — Conversational 
