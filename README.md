@@ -58,6 +58,8 @@ To keep my projects organized, I use the following prefixes for my repositories:
 ![Agile](https://img.shields.io/badge/Agile-FF4088?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-0E76A8?style=for-the-badge&logo=unifiedmodelinglanguage&logoColor=white)
 
+---
+
 ## 🌍 Languages
 
 🇬🇧 English — Fluent  
