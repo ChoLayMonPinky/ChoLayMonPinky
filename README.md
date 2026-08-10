@@ -12,6 +12,17 @@
 
 ---
 
+## 🗂️ Repository Naming Conventions
+
+To keep my projects organized, I use the following prefixes for my repositories:
+
+- 🏫 **`NUS_ISS-`** — University Projects (NUS ISS)
+- 💼 **`3echo-`** — Internship Projects
+- 🛠️ **`OP-`** — Personal / Own Projects
+- 🤝 **`CP-`** — Client Projects
+
+---
+
 ## 🌱 Technologies & Tools
 
 ### 📈 Data Analytics & Visualization
