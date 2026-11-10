@@ -60,6 +60,17 @@ To keep my projects organized, I use the following prefixes for my repositories:
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Novora HRMS** | A comprehensive HR management system designed to streamline employee records, attendance tracking, payroll processing, and performance evaluations. |
+| **Volunteer Management Software** | A streamlined coordination platform that simplifies volunteer recruitment, hour tracking, event scheduling, and communication for community organizations. |
+| **Spice Route Recipes Web** | A smart culinary recommendation engine that turns leftover pantry ingredients into customized recipes tailored to dietary preferences, backed by intelligent data logic and a minimalist interface. |
+| **Meridian Event Planner** | A centralized event management suite built to streamline schedule creation, attendee tracking, and venue logistics into one seamless planning dashboard.|
+
+---
+
 ## 🌍 Languages
 
 🇬🇧 English — Fluent  
